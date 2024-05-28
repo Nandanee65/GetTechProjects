@@ -221,3 +221,10 @@
 - Place: Bokaro Steel City, Jharkhand, India
 - Bio: College Student | Full Stack Developer
 - Github: [Sadaf Kausar](https://github.com/SadafKausar2025)
+
+### Name: [Nandanee Nimavat](https://github.com/Nandanee65)
+
+- Place: morbi,gujarat,india.
+- Bio: IT student | fronted developer|data analytics
+- Github:[Nandanee Nimavat](https://github.com/Nandanee65)
+
